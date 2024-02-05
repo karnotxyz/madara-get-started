@@ -6,7 +6,7 @@ This repo contains some basic scripts so that you can get started with Madara. T
 
 ### Setup
 
-> You will need Node.js to use these scripts.
+> You will need Node.js to use these scripts. These scripts were tested on Node version v20.5.1
 
 ```
 git clone https://github.com/karnotxyz/madara-get-started
