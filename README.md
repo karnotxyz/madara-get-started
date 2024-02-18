@@ -10,6 +10,7 @@ This repo contains some basic scripts so that you can get started with Madara. T
 
 ```
 git clone https://github.com/karnotxyz/madara-get-started
+cd madara-get-started
 npm i
 ```
 
